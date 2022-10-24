@@ -16,9 +16,8 @@ Here are some ideas to get you started:
 
 # Hi there, I'm Jay Patel - 👋 
 
-- 🔭 I’m currently working on Full Stack web development project 👨🏻‍💻
-- 🌱 I’m currently learning new technologies 📚
-- 💬 Ask me about anything ⌨️
+- 🔭 I’m currently working on Full Stack web development in React 👨🏻‍💻
+- 🌱 I’m currently pursuing AWS Cloud Pratitioner Exam 📚
 - 📫 How to reach me: pateljay2098@gmail.com ✉️
 - ⚡ Thought: Being good isn't good enough, so always be the best!!! 😎
 
