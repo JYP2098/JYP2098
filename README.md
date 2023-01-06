@@ -17,9 +17,8 @@ Here are some ideas to get you started:
 # Hi there, I'm Jay Patel - 👋 
 
 - 🔭 I’m currently working on Full Stack web development in React 👨🏻‍💻
-- 🌱 I’m currently pursuing AWS Cloud Pratitioner Exam 📚
+- 🌱 I’m preparing for AWS Cloud Pratitioner and Solutions Architech Associate Exam 📚
 - 📫 How to reach me: pateljay2098@gmail.com ✉️
-- ⚡ Thought: Being good isn't good enough, so always be the best!!! 😎
 
 ### Connect with me:
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/jay-patel-35b969178/)
