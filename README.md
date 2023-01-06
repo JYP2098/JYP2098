@@ -20,11 +20,6 @@ Here are some ideas to get you started:
 - 🌱 I’m preparing for AWS Cloud Pratitioner and Solutions Architech Associate Exam 📚
 - 📫 How to reach me: pateljay2098@gmail.com ✉️
 
-### Connect with me:
-[![website](./img/linkedin.svg)](https://www.linkedin.com/in/jay-patel-35b969178/)
-&nbsp;&nbsp;
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/jyp2098/)
-
 <!--
 <a href="https://github.com/jyp2098">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyp2098&theme=algolia&layout=compact&langs_count=10" />
