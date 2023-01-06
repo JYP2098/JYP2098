@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: pateljay2098@gmail.com ✉️
 
 ### Connect with me:
-[![website]((https://www.svgrepo.com/show/452051/linkedin.svg))(https://www.linkedin.com/in/jay-patel-35b969178/)
+[![website](./img/instagram-dark.svg)](https://www.linkedin.com/in/jay-patel-35b969178/)
 &nbsp;&nbsp;
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/jyp2098/)
 
